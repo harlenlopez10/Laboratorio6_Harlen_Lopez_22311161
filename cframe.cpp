@@ -12,3 +12,5 @@ cframe::~cframe()
 {
     delete ui;
 }
+
+//aschbvajhvbcbcikas
